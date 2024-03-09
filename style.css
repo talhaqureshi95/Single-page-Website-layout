@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.changer {
+    /* margin-left: 750px; */
+    
+}
+.navbar {
+    background-image: linear-gradient(blue,purple);
+    overflow: hidden;
+    position: sticky;
+    top: 0px;
+    height: 50px;
+}
+li {
+    list-style: none;
+    float: left;
+    margin: 15px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+.BACKGROUND-IMAGE{
+    width: 100%;
+    height: 600PX;
+}
+.row{
+    display: flex;
+}
+.column{
+    flex: 50%;
+    height: 400px;
+    margin: 50px;
+}
+.Section1Image{
+    height: 400px;
+    width: 100%;
+}
+footer{
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    color: aliceblue;
+}
+.Footer-Text{
+
+    margin-top: 200px;
+}
